@@ -1,0 +1,5 @@
+Partlist exported from Fusion Hub: PCB Design   Project: Light ring  Board: Eye ring at 05-Jul-26 12:12 AM
+
+Qty Value          Device         Package                Parts                  Description   CATEGORY_L1     CATEGORY_L2 CATEGORY_L3 COLOR DATASHEET DESCRIPTION                                                                     MANUFACTURER MPN OPERATING_TEMPERATURE PACKAGE      PACKAGE_SIZE PART_STATUS PITCH           ROHS SERIES THERMALLOSS
+6   LED_RADIALBLUE LED_RADIALBLUE LEDRD254W60D565H860B_B D1, D2, D3, D4, D5, D6 LED - Generic Optoelectronics LED         Round       Blue            Radial LED (Round) 2.54 mm pitch 5.65 mm body diameter 8.60 mm body height Blue                                        Through Hole 5mm                                                             
+1   PINHD-1X8      PINHD-1X8      1X08                   JP1                    Pin Header    Connectors      Headers     Male Pins                   Header-Straight-8 Position                                                                                             Through Hole                          0.100" (2.54mm)                        

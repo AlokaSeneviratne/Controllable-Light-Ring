@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2026-07-04T21:31:11Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 0.27,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PCB"
+        },
+        "Owner": "Praveen Aloka Seneviratne <psenevir24@student.oulu.fi>",
+        "Size": {
+            "X": 52,
+            "Y": 62.3
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2026-07-04T21:12:57Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.2278,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Eye ring"
+        },
+        "Owner": "Praveen Aloka Seneviratne <psenevir24@student.oulu.fi>",
+        "Size": {
+            "X": 50,
+            "Y": 50
+        }
+    }
+}
