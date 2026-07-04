@@ -121,6 +121,16 @@ The schematic is complete and passes ERC in Autodesk Fusion Electronics. Firmwar
 
 The board outline and mechanical layout are still open. The central question is how to fit the 51 mm Pico module onto or around a 50 mm circular board that also needs a center hole for the camera. Options under consideration include mounting the Pico off the ring plane or reshaping the outline around it. Nothing here has been through PCB fabrication yet.
 
+
+
+https://github.com/user-attachments/assets/f78a20c6-0452-4038-a702-01119c2b89a6
+
+
+
+https://github.com/user-attachments/assets/c50033ce-05c1-4d13-9fed-d54d6e7de375
+
+
+
 ## Context
 
 This is a design assignment for a Hardware Integration Engineer role at an eye-tracking hardware company. It is meant to show the full path from requirements to a driven, controllable illumination board, including the parts that are still in progress.
